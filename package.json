@@ -1,0 +1,6 @@
+{
+  "name": "youvid-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "M3U8 Video Proxy using Vercel Edge Functions"
+}
